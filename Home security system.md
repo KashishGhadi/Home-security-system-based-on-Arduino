@@ -1,3 +1,5 @@
+<p>This is an Arduino based project that is made using simple components mainly GSM module , PIR sensor, buzzer , keypad and Arduino Uno </p> 
+<p>AUTHOR - Kashish Ghadi</p>
 <p>A home security system based on Arduino is a do-it-yourself (DIY) security solution that utilizes the Arduino platform for creating a customizable and cost-effective system to protect a home. </p>
 <p>Arduino is an open-source electronics platform that consists of a microcontroller and a development environment, allowing users to build and program their electronic projects.</p>
 <p>WHY ARE HOME SECURITY SYSTEMS IMPORTANT?</p>
